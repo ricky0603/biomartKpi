@@ -1,0 +1,1336 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="zh-cn" xml:lang="zh-cn" xmlns:wb="http://open.weibo.com/wb"> 
+
+<head>
+	<script id="allmobilize" charset="utf-8" src="http://a.yunshipei.com/b5409c33eed108ca492f085e0c711f0a/allmobilize.min.js"></script>
+ 	<meta http-equiv="Cache-Control" content="no-transform" />
+ 	<link rel="alternate" media="handheld" href="#" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+		
+		<meta http-equiv="content-language" content="zh-cn" />
+			
+	
+	
+	<meta name="keywords" content="拜耳“走进西部”，助力中国医疗卫生基础建设" />
+	<meta name="description" content="昆明2016年8月29日电 /美通社/ -- 
+2016年8月25日至26日，由国家卫生和计划生育委员会、云南省卫生和计划生育委员会主办，云南省医院协会、昆明医科大学承办，国家卫生和计划生育委员会医院......" />
+	
+	<!--sina js start-->
+	<script src="http://tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8"></script>
+	<!--sina js end-->  
+  
+	<!--sina like start-->
+	<!--must-->
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="http://www.prnasia.com/story/157125-1.shtml" />
+	<meta property="og:title" content="" />
+	<meta property="og:description" content="" />
+	<!--may-->
+	<meta property="og:image" content="" />
+	<meta name="weibo: article:create_at" content="" />
+	<meta name="weibo: article:update_at" content="" />
+	<!--sina like end-->
+	
+	<!--tencent js start-->
+	<script src="http://mat1.gtimg.com/app/openjs/openjs.js#autoboot=no&debug=no"></script>
+  <!--tencent js end--> 
+  
+	
+	
+ 
+  
+ 	<title>拜耳“走进西部”，助力中国医疗卫生基础建设-美通社PR-Newswire</title>
+	<link rel="stylesheet" type="text/css" href="http://static.prnasia.com/pro/pcom/includes/theme/PRN_reset.css" media="all" />
+	<link rel="stylesheet" type="text/css" href="http://static.prnasia.com/pro/pcom/includes/theme/PRN_master.css" media="all" />
+	
+		
+		<link rel="stylesheet" type="text/css" href="http://static.prnasia.com/pro/pcom/includes/theme/PRN_Asia.css" media="all" />	
+			
+	
+	
+	<link rel="shortcut icon" href="http://static.prnasia.com/pro/pcom/includes/images/favicon_PRN.ico" type="image/x-icon" />
+	<script type="text/javascript" src="http://static.prnasia.com/pro/pcom/includes/js/jquery.min.js"></script>
+	<script type="text/javascript" src="http://static.prnasia.com/pro/pcom/includes/js/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="http://static.prnasia.com/pro/pcom/includes/js/jquery.json.min.js"></script>
+
+
+<script>
+		var googletag = googletag || {};
+		googletag.cmd = googletag.cmd || [];
+		(function() {
+		var gads = document.createElement('script');
+		gads.async = true;
+		gads.type = 'text/javascript';
+		var useSSL = 'https:' == document.location.protocol;
+		gads.src = (useSSL ? 'https:' : 'http:') + 
+		'//www.googletagservices.com/tag/js/gpt.js';
+		var node = document.getElementsByTagName('script')[0];
+		node.parentNode.insertBefore(gads, node);
+		})();
+</script>
+
+<script type="text/javascript" src="http://static.prnasia.com/pro/pcom/includes/js/s_code.js"></script>
+
+<script>
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><div><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://prnewswirecom2.122.2O7.net/b/ss/prnewswirecom2/1/H.20.3--NS/0"
+height="1" width="1"  alt="" /></a></div></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.20.3. -->
+
+
+ 
+
+
+
+	
+	
+		
+	<script type="text/javascript">
+		$(function(){ 
+			$("#qrcode_botton").mouseover(function(){
+				var offset = $(this).offset();
+				var left = offset.left ;
+				var top = parseInt(offset.top) ;
+				
+				var width_b = $(this).width() ;
+				var width_p = $("#qrcode_box").width();
+				var height_p = $("#qrcode_box").height();
+				
+				var left2 = left + parseInt(width_b/2) - parseInt(width_p/2);
+				var top2 = top - 30 - height_p;
+				
+ 			  $("#qrcode_box").css("left",left2); 
+ 			  $("#qrcode_box").css("top",top2); 
+				$("#qrcode_box").show(); 
+			});
+			
+			$("#weixin_close").click(function(){
+				$("#qrcode_box").hide();
+			});
+		});
+	</script>
+	
+		
+		
+	<script type="text/javascript">		
+		$(function(){ 	
+			
+			$("div[name=photo] img").each(function(){
+				var index = $(this).index();
+				var offset = $(this).offset();
+				var left = offset.left ;
+				var top = parseInt(offset.top) ;
+				var right = left + this.width - 122;
+				var bottom = top + this.height - 28 ;
+			  //alert(left+"&&"+top+"##"+right+"&&"+bottom); 
+				var picurl =  $(this).attr("src");
+				
+				var div_id = "pre_pic_share_"+left+top ;
+				//alert(div_id);
+				var tag = "<div id=\""+div_id+"\" style=\"display:none;position:absolute;left:"+right+"px;top:"+bottom+"px;z-index:99;background:url(http://static.prnasia.com/pro/pcom/includes/images/btn_share.png) repeat right 0;cursor: pointer;font-size: 12px;line-height: 24px;\"><span style=\"float: left;display: inline;margin: 0 6px 0 29px;color: #5E0900;\">分享到新浪微博</span></div>";
+				$("body").append(tag);
+				$("div#"+div_id).mouseover(function(){
+	  			$("div#"+div_id).css("display","inline");
+	  		});
+	  		$("div#"+div_id).click(function(){
+	  			open_sinaweibo_share_win(picurl);
+	  		});
+				
+			});
+			
+			$("div[name=photo] img").mouseover(function(){
+				var index = $(this).index();
+				var offset = $(this).offset();
+				var left = offset.left ;
+				var top = parseInt(offset.top) ; 
+				var div_id = "pre_pic_share_"+left+top ;
+				//alert(div_id);
+				$("div#"+div_id).css("display","inline");
+				//$("div#"+div_id).show();
+				//alert(div_id);
+				
+			})
+			
+			$("div[name=photo] img").mouseout(function(){		
+				$("div[id^=pre_pic_share]").css("display","none");
+				//$("div[id^=pre_pic_share]").hide();
+  		});				
+			
+ 		});
+
+ 		
+ 		function open_sinaweibo_share_win(picurl)
+ 		{ 
+ 			var winurl = 'http://service.weibo.com/share/share.php?url='+location.href+'&type=2&count=1&ralateUid=1649036617&language=zh_cn&appkey=1943563082&title='+encodeURIComponent(document.title)+'&pic='+picurl+'&showbutton=y&social=text&width=&height=60&widget=share&popup=layer';
+ 			window.open(winurl,'_blank','width=650,height=450');
+ 		}
+ 		
+ 		$(function(){
+ 			$("div.follow_logo").each(function(index){
+ 				$(this).mouseover(function(){
+ 					$("div.follow_box:eq("+index+")").show();
+ 				});
+ 				$(this).mouseout(function(){
+ 					$("div.follow_box:eq("+index+")").hide();
+ 				});
+ 			}); 			
+ 		});
+ 		
+	</script>
+	
+		
+</head>
+
+<body>
+<!-- _overall_navigator_header END -->
+
+<!-- cn_overall_segment_header ON 2016-06-24 17:38:50 START -->
+<!-- master container -->
+<div id="container" class="">
+	<!-- header -->
+	<div class="section01">
+	<!-- page logo -->
+		<a title="新闻稿发布 全球最大的企业新闻稿发布机构-美通社-PR Newswire" href="/">
+			<img src="http://static.prnasia.com/pro/pcom/includes/images/logo-prn-01_PRN.png" alt="美通社" title="新闻稿发布 全球最大的企业新闻稿发布机构-美通社-PR Newswire" border="0" />
+		</a>
+		<!-- page logo end -->
+	</div><!-- header end -->
+<!-- cn_overall_segment_header ON 2016-06-24 17:38:50 END -->
+
+
+    
+    
+	<!-- CONTENT AREA BEGIN -->
+	<div class="content release-article">
+		<div class="section05">
+			
+			<div style="padding:20px 0 0 0;">
+				<a href="http://www.prnasia.com/">首页</a>
+				 &gt; 
+				<a href="http://www.prnasia.com/news/">新闻稿中心</a>
+				 &gt; 
+				<a href="http://www.prnasia.com/p/group-all-1.shtml">行业新闻稿</a>
+				<img src="http://www.prnasia.com/p/styles/default/images/p1.png" id="jt_group">
+				 &gt;
+				拜耳“走进西部”，助力中国医疗卫生基础建设
+			</div>
+			
+			
+			
+			<style type="text/css" media="screen">
+				#group_box {position: absolute;width: 120px;padding: 2px 0;text-align: center;border: 1px solid #CCC;box-shadow: 1px 3px 3px #eee;background-color: white;text-indent: 0;opacity: .6;z-index:99;}
+				.cf_group_close a:hover {text-decoration:none;color:#464646}
+				#group_close {padding:0 5px 0 0;float:right;text-decoration:none;cursor:pointer;font-size: 16px; font-weight: bold;}
+			</style>					
+			
+			
+			
+			<script type="text/javascript">
+				$(function(){ 
+					$("#jt_group").click(function(){
+						var offset = $(this).offset();
+						var left = offset.left ;
+						var top = parseInt(offset.top) ;
+						
+						var width_b = $(this).width() ;
+						var width_p = $("#group_box").width();
+						var height_p = $("#group_box").height();
+						
+						var left2 = left + parseInt(width_b/2) - parseInt(width_p/2);
+						var top2 = top + 15;
+						
+		 			  $("#group_box").css("left",left2); 
+		 			  $("#group_box").css("top",top2); 
+						$("#group_box").show(); 
+					});
+					
+					$("#group_close").click(function(){
+						$("#group_box").hide();
+					});
+				});
+			</script>
+			
+			<div id="group_box" style="display:none;opacity: 1; ">
+				<div class="cf_group_close">
+				  <a id="group_close">×</a>
+				  <div style="clear:both"></div>
+				</div>
+				<div style="padding:0 10px 2px 10px;text-align:left;">
+					<ul>
+												<li style="line-height:1.5em;">
+						<a href="http://www.prnasia.com/p/group-9-1.shtml" target="_blank">
+							健康与医疗制药
+						</a>
+						</li>
+											</ul>
+				</div>					
+			</div>
+			
+			
+				
+			<div style="padding: 15px 0 15px 0;" id="header-message">
+
+				<div id="dvEditions">
+										<a href="/story/157125-1.shtml"><img src="http://static.prnasia.com/pro/pcom/includes/images/lang_zh_CN.gif" /></a>
+									</div>
+				<!-- 1777963_ZH77963 -->
+				<h2 id="contenttitle"><!-- headline start -->拜耳“走进西部”，助力中国医疗卫生基础建设<!-- headline end --></h2>
+				<span class="timestamp"><!-- timestamp start -->2016-08-29 14:01<!-- timestamp end --></span>
+			</div>
+
+			<div id="release-article-container">
+				<div class="colSection section07">
+					<script>var blurbline = ''</script>
+										<div class="newsreldettran" style="padding-top:10px;">
+						<!--sina forward start-->
+						<div style="margin: -7px 0 -50px 2px;float:left;height:30px;width:150px;">
+
+
+
+<div class="bdsharebuttonbox"><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#" class="bds_linkedin" data-cmd="linkedin" title="分享到linkedin"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_mail" data-cmd="mail" title="分享到邮件分享"></a><a href="#" class="bds_more" data-cmd="more"></a></div>
+
+<script>window._bd_share_config={"common":{"bdSnsKey":{"tsina":"1943563082","tqq":"801095661"},"bdText":"【拜耳“走进西部”，助力中国医疗卫生基础建设】美通社新闻稿：8月25日至26日，由国家卫生和计划生育委员会、云南省卫生和计划生育委员会主办，云南省医院协会、昆明医科大学承办，国家卫生和计划生育委员会医院管理研究所协办，拜耳支持的 “走进西部 ”卫生人才培训项目在昆明拉开帷幕。","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"image":{"viewList":["tsina","weixin","linkedin","qzone","mail"],"viewText":"分享到：","viewSize":"16"}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+
+
+
+							<!--<wb:share-button social="text" size="middle" appkey="1943563082" title="【拜耳“走进西部”，助力中国医疗卫生基础建设】美通社新闻稿：8月25日至26日，由国家卫生和计划生育委员会、云南省卫生和计划生育委员会主办，云南省医院协会、昆明医科大学承办，国家卫生和计划生育委员会医院管理研究所协办，拜耳支持的 “走进西部 ”卫生人才培训项目在昆明拉开帷幕。" url="http://www.prnasia.com/story/157125-1.shtml" ralateuid="1649036617"> 
+						  </wb:share-button>-->
+						</div>
+						<!--sina forward end-->	
+						
+						<!--new start-->	
+												
+						<style type="text/css" media="screen">
+							.cf_div { float:right;height:30px;padding:0 5px 0 0; }
+							#weixin_close {padding:0 6px 0 0;float:right;text-decoration:none;cursor:pointer;font-size: 16px; font-weight: bold;}
+							.cf_qr_close a:hover {text-decoration:none;color:#464646}
+							.cf_list { float: left;  height: 24px; margin: -4px 3px -5px 5px;}
+							.cf_list_text { float: left;  height: 24px; margin: 0 0 0 0; }		
+							.cf_list_weixin {background:url(http://static.prnasia.com/pro/pcom/images/wechat.png) no-repeat 0 0;width: 60px;margin:-6px 0 0 0;}
+							#qrcode_box {position: absolute;width: 170px;padding: 5px 0;text-align: center;border: 1px solid #CCC;box-shadow: 1px 3px 3px #eee;background-color: white;text-indent: 0;opacity: .6;z-index:99;}
+						</style>					
+							
+						<div class="cf_div">
+																								
+														</div>
+												<!--new end-->	
+						<div style="clear:both"></div>
+ 				  </div>
+ 				  <div style="clear:both;margin-top:-10px;"> </div>	
+			    
+					<div style="margin-right:10px;">
+						<div id="dvContent">
+							
+							<style>
+							#subheadlines div {font-size: 17px;}
+							</style>
+							
+						<!-- dvContent start -->
+                        <style>
+                          /* Style Definitions */
+span.prnews_span
+{
+font-size:8pt;
+font-family:"Arial";
+color:black;
+}
+a.prnews_a
+{
+color:blue;
+}
+li.prnews_li
+{
+font-size:8pt;
+font-family:"Arial";
+color:black;
+}
+p.prnews_p
+{
+font-size:0.62em;
+font-family:"Arial";
+color:black;
+margin:0in;
+}
+                        </style>
+                                                <div id="subheadlines" style="font-size:15px;font-weight:bold;line-height:1.6em;font-style:italic">
+                          <div>-积极支持中国分级诊疗制度建设和实施</div>
+                        </div>
+                                                <div id="subheadlines" style="font-size:15px;font-weight:bold;line-height:1.6em;font-style:italic">
+                          <div>-协力推进可持续的基层卫生人才培养</div>
+                        </div>
+                        						<p>昆明2016年8月29日电 /美通社/ -- 2016年8月25日至26日，由国家卫生和计划生育委员会、云南省卫生和计划生育委员会主办，云南省医院协会、昆明医科大学承办，国家卫生和计划生育委员会医院管理研究所协办，拜耳支持的<span id="spanHghltb1ab">“</span>走进西部<span id="spanHghltbd64">”</span>卫生人才培训项目云南省县级医院管理干部培训班及骨干医师培训班在昆明拉开帷幕。“走进西部”卫生人才项目是国家卫生和计划生育委员会与拜耳联合开展的战略合作伙伴计划。项目实施九年来，已在全国26个省份完成208期培训，培养卫生人才逾3万人次。</p> 
+<p><b>支持基础医疗体系建设，助力分级诊疗制度实施</b></p> 
+<p></p> 
+<p></p> 
+<p></p> 
+<prnaquote></prnaquote> 
+<p>近年来随着医疗改革的持续深化，建立分级诊疗制度的重要性日益凸显。2015年，国务院办公厅《关于推进分级诊疗制度建设的指导意见》明确提出以强基层为重点完善分级诊疗服务体系，大力提高基层医疗卫生服务能力，全面提升县级公立医院综合能力。拜耳多年来致力于帮助中国改善基层医疗水平，提升医疗系统的效率和质量，特别是在支持分级诊疗制度的建立中扮演了先锋角色。早在2007年，拜耳与国家卫生和计划生育委员会（原卫生部）共同发起了“走进西部”卫生人才培训项目，计划在十年内为中西部省（区、市）培养县级医院骨干医师和管理干部。</p> 
+<p>与我国其他省份相比，中西部地区仍处于发展的初级阶段，医疗卫生水平尚存较大的差距，医疗卫生人才的培训和建设是解困的关键。“走进西部”卫生人才培训项目，以创新形式，持之以恒地运用各方优势共同营造一个更广阔的培训服务平台，满足更多渴求新知识、新技术的中西部基层卫生人才的需求，加快提升他们的医疗水平和管理能力。</p> 
+<p>云南省卫生和计划生育委员会副主任张宽寿表示：“目前正值国家全面推开县级公立医院改革，‘走进西部’卫生人才培训项目的实施具有十分重要的意义。在国家卫生和计划生育委员会与拜耳的大力支持下，云南省于2008年启动该项目，不断提高医院的管理能力和服务能力，从而满足全省广大人民群众日益增长的医疗卫生服务需求。”</p> 
+<p><b>可持续发展的基层卫生人才培养项目</b></p> 
+<p>据统计，中国医疗卫生资源配置不均衡，80%在城市，20%在农村。一方面基层缺乏高水平医疗卫生人才队伍；另一方面，基层医师毕业后缺乏继续教育的机会，医师队伍很难满足城乡居民日益增长的医疗卫生服务需求。与此同时，推进分级诊疗制度的建立使得加强基层医疗卫生人才队伍建设迫在眉睫。“走进西部”卫生人才培训项目分设县级医院管理干部培训班和县级医院骨干医师培训班，以提高县级医院医生对常见疾病的诊疗能力以及医院管理人员的管理水平。项目课程的设计切实结合地方卫生工作重点，培训授课范围广，云集国内各领域知名专家。以云南省医师班为例，课程领域不仅涵盖内科、外科、妇产科、儿科、等县级医院薄弱专科，还率先探索性地开展影像、检验、口腔、药理等专题培训，理论与实践相结合，使学员收获良多。</p> 
+<p>云南省是项目中开班期数最多、培训学员人数最多的省份之一，培训项目在云南历经八年，惠及当地卫生人才3000余人次。云南省医院协会会长杜克琳介绍说：“‘走进西部’项目已经成为全国知名的卫生人才培养项目，深受广大卫生工作者欢迎。培训课程精心设计，紧密结合地方需求，既反映了不同时段国内外最前沿的医疗、医院管理的理论和知识，同时与医改和医疗技术相结合，具有很强的实用性。” </p> 
+<p>2016年，“走进西部”卫生人才培训项目将继续积极配合分级诊疗相关政策，以加强县级医院医师专业技术能力为目的，把侧重点放在高血压、糖尿病等慢性疾病的管理上，进一步提升医师的诊疗水平，从而提升县级医院医疗服务水平，助力医改。</p> 
+<p>拜耳处方药事业部中国及亚太区执行副总裁兼中国区总裁江维先生表示：“拜耳全力支持中国政府建立覆盖城乡居民的基本医疗卫生体制。我们将利用自身专长和能力，帮助中国加强基层和欠发达地区医疗卫生机构的专业能力和服务能力，为打造健康中国贡献力量。”</p> 
+<p><b>拜耳 -- </b><b>科技创造美好生活</b></p> 
+<p>拜耳作为一家跨国企业，其在生命科学领域的核心竞争力包括医药保健和植保。公司产品和服务致力于造福人民，提高人们的生活质量。同时，拜耳还通过科技创新、业务增长和高效的盈利模式来创造价值。拜耳集团致力于可持续发展，认可并接受其作为企业公民的社会责任和道德责任。2015年财政年度，拜耳的员工人数为117,000名，销售额为463亿欧元，资本支出为26亿欧元，研究开发投入为43亿欧元。这些数据包括高科技聚合物材料业务的数据，该业务已于2015年10月6日以Covestro（中文译名：科思创）作为商号成为独立的公司上市。更多信息请见<a href="http://www.bayer.com/" target="_blank" rel="nofollow">www.bayer.com</a>。</p> 
+<p><b>前瞻性声明</b></p> 
+<p>本新闻稿包括拜耳集团管理层基于当前设想和预测所作的前瞻性声明。各种已知和未知的风险、不确定性和其它因素均可能导致公司未来的实际运营结果、财务状况、发展或业绩与上述前瞻性表述中所作出的估计产生重大差异。这些因素包括在拜耳官方网站<a href="http://www.bayer.com/" target="_blank" rel="nofollow">http://www.bayer.com/</a>上公开的拜耳各项报告。本公司没有责任更新这些前瞻性声明或使其符合未来发生的事件或发展。</p>
+						<!-- dvContent end -->
+						</div>
+
+						<div id="dvExtra"></div>
+						
+						<!--sina mingpian start-->
+						
+						<script type="text/javascript">
+							//WB2.anyWhere(function(W){
+							//    W.widget.hoverCard({
+							//        id : "dvContent",
+							//        search: true
+							//    });
+							//});
+						</script>
+												<!--sina mingpian end-->
+
+						<div id="dvSource">消息来源: 拜耳</div>
+							
+                        					
+												<div id="ewm" style="padding:10px 0 0 0;">
+							<div style="padding:0 0 3px 10px;">扫描二维码分享到微信</div>
+						<img src="http://b.bshare.cn/barCode?site=weixin&type=0&url=http://www.prnasia.com/story/157125-1.shtml">
+						</div>
+							
+						<!--sina baidu youyan start-->
+												<div style="font-size: 14px;margin: 25px 0 5px 0px;">
+						  <div style="float:left">
+							  <!--sina like start-->
+							  <wb:like type="text"></wb:like>	
+							  <!--sina like end--> 
+						  </div>
+						  <div style="float:right;width:140px;">
+
+
+
+<!--
+						  	<div class="bdsharebuttonbox"><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博"></a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信"></a><a href="#" class="bds_linkedin" data-cmd="linkedin" title="分享到linkedin"></a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间"></a><a href="#" class="bds_mail" data-cmd="mail" title="分享到邮件分享"></a><a href="#" class="bds_more" data-cmd="more"></a></div>
+
+<script>window._bd_share_config={"common":{"bdSnsKey":{"tsina":"1943563082","tqq":"801095661"},"bdText":"【拜耳“走进西部”，助力中国医疗卫生基础建设】美通社新闻稿：8月25日至26日，由国家卫生和计划生育委员会、云南省卫生和计划生育委员会主办，云南省医院协会、昆明医科大学承办，国家卫生和计划生育委员会医院管理研究所协办，拜耳支持的 “走进西部 ”卫生人才培训项目在昆明拉开帷幕。","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{},"image":{"viewList":["tsina","weixin","linkedin","qzone","mail"],"viewText":"分享到：","viewSize":"16"}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];</script>
+-->
+
+						  
+						  
+							
+						  </div>
+
+						  <!-- JG diabled UY 2016-06-29 per VC, LL's request -->
+						  <!--
+						  <div style="clear:both;padding-top:15px;width:605px">
+						  -->
+							  <!-- UY BEGIN -->
+							  <!--
+								<div id="uyan_frame"></div>
+								<script type="text/javascript" id="UYScript" src="http://v1.uyan.cc/js/iframe.js?UYUserId=904399" async=""></script>
+								-->
+								<!-- UY END -->
+						  <!--
+							</div>
+						  -->
+						</div>
+												<!--sina baidu youyan end-->
+						
+						<!--sina weibo comments start-->
+												
+						
+						<script type="text/javascript">
+							function get_comments_by_page(this_page)
+							{
+								//alert(this_page);
+								$('div.comment_lists').empty();
+								$('div.comment_lists').html('loading...');
+								var scroll_offset = $('div.comment_lists').offset(); 
+								$("body,html").animate({scrollTop:scroll_offset.top},0);
+								var list;
+								var list_html = '';
+								var comments_html = '';
+								var page_html = '';
+								var params = {
+									page:this_page,
+									story_id:157125,
+									lang:1
+									};
+							    $.ajax({
+							        type: "POST",
+							        dataType: "json", 
+							        url: "http://www.prnasia.com/p/get-more-comments.php",
+							        data: params,
+							        async:false, 
+							        success: function(result) {
+												  list =   result; 
+												  $.each(list,function(index,list2){
+												  	if(index == 'page_string')
+												  	{
+												  		page_html = '<div class="comment_page">' + list2 + '</div>';
+												  	}
+												  	
+												  	if(index == 'comments')
+												  	{
+												  		$.each(list2,function(index2,list3){
+												  			comments_html += '<dl class="comment_list S_line1">';
+																comments_html += '	<dt>';
+																comments_html += '		<a href="http://weibo.com/u/"' + list3['cmt_uid'] +' title="' + list3['user_name'] + '"><img src="' + list3['user_icon'] + '" width="30" height="30" alt=""></a>';
+																comments_html += '	</dt>';
+																comments_html += '	<dd>';
+																comments_html += '		<a href="http://weibo.com/u/' + list3['cmt_uid'] + '" title="' + list3['user_name'] + '">' + list3['user_name'] + '</a> : ' + list3['cmt_content'] + '	<span class="S_txt2">(' + list3['cmt_time'] + ')</span>';
+																comments_html += '	</dd>';
+																comments_html += '</dl>';	
+												  		});
+												  	}
+												  });
+												  
+												  list_html = comments_html +page_html;
+												  $('div.comment_lists').empty();
+												  $('div.comment_lists').html(list_html);
+												  var scroll_offset = $('div.comment_lists').offset(); 
+													$("body,html").animate({scrollTop:scroll_offset.top},0);
+												  //alert(comments_html);      
+							        },
+							        error: function() {
+												  $('div.comment_lists').empty();
+												  $('div.comment_lists').html('Comments failed to load');
+												  var scroll_offset = $('div.comment_lists').offset(); 
+													$("body,html").animate({scrollTop:scroll_offset.top},0);
+							        }    
+							    });    										    
+							return list;
+							
+							}
+						</script>	
+						
+						
+						
+						<style type="text/css" media="screen"> 
+							.comment_lists{	overflow:hidden;}
+							.comment_list {	padding:18px 0;	margin:-1px 0 0;	border-width:1px 0 0;	border-style:solid;	zoom:1;}
+							.comment_list dt {	float:left;	display:inline;	width:30px;	padding:3px 0 0;}
+							.comment_list dt img {	display:block;}
+							.comment_list dd {	margin:0 0 0 40px;	line-height:21px;	word-wrap:break-word;	zoom:1;	vertical-align: text-bottom;}
+							.comment_list dd.clear {	line-height:0px;}
+							.comment_list .hover {	visibility:hidden;	_visibility:visible;}
+							.comment_list:hover .hover {	visibility:visible;}
+							.S_line1 {border-color: #E3EFEA;}
+							.comment_page {float:right;padding:0 5px 10px 0;}
+							.comment_page .page {display: inline-block;min-width: 16px;width: auto;height: 22px;line-height: 22px;text-align: center;border-radius: 1px;vertical-align: middle;margin: 0 5px;padding: 0 3px;}
+							.comment_page .S_bg1{background-color: #F2F2F2;text-decoration: none;}
+							.comment_page .S_txt1{text-decoration: none;color: #464646;}
+						</style>
+						
+	
+						<div class="comment_lists">
+														<div class="comment_page"></div>
+						</div>
+					
+												<!--sina weibo comments end--> 
+						
+						<!--disqus start-->
+						<! -- disqus was disabled by JG 20151013 -->
+												<!--disqus end-->
+						
+						<!--disqus start-->
+												<!--disqus end-->
+						
+						
+						
+						<!--wumiiRelatedItems start-->
+												<div style="display: none;">
+							<script type="text/javascript" id="wumiiRelatedItems"></script>
+							<script type="text/javascript">
+							    var wumiiPermaLink = "http://www.prnasia.com/story/157125-1.shtml"; 						    
+							    var wumiiTitle = "拜耳“走进西部”，助力中国医疗卫生基础建设"; 
+							    var wumiiTags = ""; 
+							    var wumiiCategories = ["健康与医疗制药", "上市公司新闻稿", ];
+							    var wumiiSitePrefix = "http://www.prnasia.com/";
+							    var wumiiParams = "&num=5&mode=1&pf=JAVASCRIPT";
+							</script>
+							<script type="text/javascript" src="http://widget.wumii.cn/ext/relatedItemsWidget"></script>
+							<a href="http://www.wumii.com/widget/relatedItems" style="border:0;">
+							    <img src="http://static.wumii.cn/images/pixel.png" alt="" style="border:0;padding:0;margin:0;" />
+							</a>	
+						</div>
+												<!--wumiiRelatedItems end-->
+
+					</div>
+					<script language="javascript" type="text/javascript">
+						(function(){
+							var prnaquote = $('prnaquote');
+							if (prnaquote != null)
+							{
+								$('prnaquote').replaceWith('<blockquote id="blockquote"><p>8月25日至26日，由国家卫生和计划生育委员会、云南省卫生和计划生育委员会主办，云南省医院协会、昆明医科大学承办，国家卫生和计划生育委员会医院管理研究所协办，拜耳支持的 “走进西部 ”卫生人才培训项目在昆明拉开帷幕。</p></blockquote>');
+							}
+						})();
+					</script>
+				</div>
+
+				<div class="block" id="release-article-sidebar">
+										<div class="block03">
+												<div class="sub-block"  style="padding:10px 25px 25px">
+														<div style="margin: -4px 0 0 0;float:left">
+								<wb:follow-button uid="1649036617" type="red_2" width="136" height="24" ></wb:follow-button>
+							</div>
+							<div style="margin: -4px 0 0 0;float:left"> 	
+								<iframe src="http://follow.v.t.qq.com/index.php?c=follow&a=quick&name=prnasia&style=5&t=1362982464714&f=1" frameborder="0" scrolling="auto" width="110" height="24" marginwidth="0" marginheight="0" allowtransparency="true"></iframe>
+						  </div>
+						</div>
+												
+						<!--sina company show start-->
+												<!--sina company show end-->
+						
+						<!--sina yijianguanzhu start-->
+												<!--sina yijianguanzhu end-->
+						
+						<div class="sub-block highlight-block">
+							<h5>相关关键词: </h5>
+														<p><a href="/story/industry/HEA-1.shtml" title="健康护理与医院">健康护理与医院</a></p>
+														<p><a href="/story/industry/MTC-1.shtml" title="医疗药物">医疗药物</a></p>
+														<p><a href="/story/subject/CSR-1.shtml" title="企业社会责任">企业社会责任</a></p>
+													</div>
+
+
+				    
+				    <!--
+				    <div class="newsSideBar01">
+							<div class="callouts-accordion">
+								<div id="accordion2">
+
+																		
+																		<h3><a href="">最近新闻稿</a></h3>
+									<div class="sub-block">
+									<ul>
+																			<li>
+											<a href="/story/157125-1.shtml">
+											拜耳“走进西部”，助力中国医疗卫生基础建设
+											</a>
+											<span class="timestamp">2016-08-29</span>
+										</li>
+																			<li>
+											<a href="/story/155101-1.shtml">
+											拜耳销售额与盈利增长
+											</a>
+											<span class="timestamp">2016-07-28</span>
+										</li>
+																			<li>
+											<a href="/story/153674-1.shtml">
+											跟着拜耳“一起趣揭秘”
+											</a>
+											<span class="timestamp">2016-07-07</span>
+										</li>
+																			<li>
+											<a href="/story/153369-1.shtml">
+											2016拜耳超级实习生评选结果揭晓
+											</a>
+											<span class="timestamp">2016-07-04</span>
+										</li>
+																			<li>
+											<a href="/story/149606-1.shtml">
+											中国医师协会“爱”孕营养行活动在沪启动
+											</a>
+											<span class="timestamp">2016-05-18</span>
+										</li>
+																			
+										<li>
+																				<a href="http://www.prnasia.com/mediaroom/4756-0.html">
+											
+										前往企业新闻室</a></li>	
+									</ul>
+									</div>
+									
+																		<h3><a href="/story/industry/HEA-1.shtml" title="健康护理与医院">健康护理与医院 最近新闻稿</a></h3>
+									<div>
+										<ul>
+																						<li>
+												<a href="/story/157125-1.shtml">
+												拜耳“走进西部”，助力中国医疗卫生基础建设
+												</a>
+												<span class="timestamp">2016-08-29</span>
+											</li>
+																						<li>
+												<a href="/story/157093-1.shtml">
+												中华医学会肝病学分会发布《共识》，帮大家保肝护肾
+												</a>
+												<span class="timestamp">2016-08-29</span>
+											</li>
+																						<li>
+												<a href="/story/157059-1.shtml">
+												投资4亿元 博奥生物重庆两江新区布局大健康产业
+												</a>
+												<span class="timestamp">2016-08-26</span>
+											</li>
+																						<li>
+												<a href="/story/156973-1.shtml">
+												独家保障2016上海国际马拉松 中国平安持续打造健康生态圈
+												</a>
+												<span class="timestamp">2016-08-25</span>
+											</li>
+																						<li>
+												<a href="/story/156896-1.shtml">
+												启明医疗助力成功开展阿根廷首例经导管肺动脉瓣膜置换术
+												</a>
+												<span class="timestamp">2016-08-24</span>
+											</li>
+																						<li><a href="/story/industry/HEA-1.shtml" title="健康护理与医院">查看更多</a></li>
+										</ul>
+									</div>
+																		<h3><a href="/story/industry/MTC-1.shtml" title="医疗药物">医疗药物 最近新闻稿</a></h3>
+									<div>
+										<ul>
+																						<li>
+												<a href="/story/157125-1.shtml">
+												拜耳“走进西部”，助力中国医疗卫生基础建设
+												</a>
+												<span class="timestamp">2016-08-29</span>
+											</li>
+																						<li>
+												<a href="/story/156781-1.shtml">
+												思密达七次蝉联“健康中国-品牌榜”胃肠道用药
+												</a>
+												<span class="timestamp">2016-08-23</span>
+											</li>
+																						<li>
+												<a href="/story/156775-1.shtml">
+												艾森流式细胞仪纳入“浙江制造精品”
+												</a>
+												<span class="timestamp">2016-08-23</span>
+											</li>
+																						<li>
+												<a href="/story/156639-1.shtml">
+												加拿大医疗技术公司LABORIE将成为Patricia Industries子公司
+												</a>
+												<span class="timestamp">2016-08-20</span>
+											</li>
+																						<li>
+												<a href="/story/156627-1.shtml">
+												bioLytical Laboratories宣布在美国提交寨卡检测专利申请
+												</a>
+												<span class="timestamp">2016-08-19</span>
+											</li>
+																						<li><a href="/story/industry/MTC-1.shtml" title="医疗药物">查看更多</a></li>
+										</ul>
+									</div>
+																		<h3><a href="/story/subject/CSR-1.shtml" title="企业社会责任">企业社会责任 最近新闻稿</a></h3>
+									<div>
+										<ul>
+																						<li>
+												<a href="/story/157133-1.shtml">
+												2016“BAZAAR明星慈善夜”将在北京举行
+												</a>
+												<span class="timestamp">2016-08-29</span>
+											</li>
+																						<li>
+												<a href="/story/157125-1.shtml">
+												拜耳“走进西部”，助力中国医疗卫生基础建设
+												</a>
+												<span class="timestamp">2016-08-29</span>
+											</li>
+																						<li>
+												<a href="/story/157117-1.shtml">
+												“童绘蓝天”全国中小学生环保绘画大赛颁奖仪式在京举行
+												</a>
+												<span class="timestamp">2016-08-29</span>
+											</li>
+																						<li>
+												<a href="/story/156811-1.shtml">
+												大都会人寿助力推动中国普惠金融事业
+												</a>
+												<span class="timestamp">2016-08-23</span>
+											</li>
+																						<li>
+												<a href="/story/156762-1.shtml">
+												半边山东海学堂国学夏令营隆重落幕
+												</a>
+												<span class="timestamp">2016-08-23</span>
+											</li>
+																						<li><a href="/story/subject/CSR-1.shtml" title="企业社会责任">查看更多</a></li>
+										</ul>
+									</div>
+									
+								</div>
+								
+								<script language="javascript" type="text/javascript">
+								
+								/* Below 2 functions are used for accordion functionality. */
+								$(function() {
+									$( "#accordion2" ).accordion({
+										autoHeight: false
+									});
+								});
+								$(function() {
+									$( "#accordionResizer2" ).resizable({
+										resize: function() {
+											$( "#accordion2" ).accordion( "resize" );
+										}
+									});
+								});
+								 /* Upto here */
+								 
+								</script>
+
+							</div>
+						</div>
+				    -->
+				    
+
+
+
+						<div class="newsSideBar01">
+							<div class="callouts-accordion">
+								<div id="accordion">
+
+																		
+																		<h3><a href="">最近新闻稿</a></h3>
+									<div class="sub-block">
+									<ul>
+																			<li>
+											<a href="/story/157125-1.shtml">
+											拜耳“走进西部”，助力中国医疗卫生基础建设
+											</a>
+											<span class="timestamp">2016-08-29</span>
+										</li>
+																			<li>
+											<a href="/story/155101-1.shtml">
+											拜耳销售额与盈利增长
+											</a>
+											<span class="timestamp">2016-07-28</span>
+										</li>
+																			<li>
+											<a href="/story/153674-1.shtml">
+											跟着拜耳“一起趣揭秘”
+											</a>
+											<span class="timestamp">2016-07-07</span>
+										</li>
+																			<li>
+											<a href="/story/153369-1.shtml">
+											2016拜耳超级实习生评选结果揭晓
+											</a>
+											<span class="timestamp">2016-07-04</span>
+										</li>
+																			<li>
+											<a href="/story/149606-1.shtml">
+											中国医师协会“爱”孕营养行活动在沪启动
+											</a>
+											<span class="timestamp">2016-05-18</span>
+										</li>
+																			<li>
+																				<a href="http://www.prnasia.com/mediaroom/4756-0.html">
+											
+										前往企业新闻室</a>
+										</li>	
+									</ul>
+									</div>
+									
+																		<h3><a href="/story/industry/HEA-1.shtml" title="健康护理与医院">健康护理与医院 最近新闻稿</a></h3>
+									<div>
+										<ul>
+																						<li>
+												<a href="/story/157125-1.shtml">
+												拜耳“走进西部”，助力中国医疗卫生基础建设
+												</a>
+												<span class="timestamp">2016-08-29</span>
+											</li>
+																						<li>
+												<a href="/story/157093-1.shtml">
+												中华医学会肝病学分会发布《共识》，帮大家保肝护肾
+												</a>
+												<span class="timestamp">2016-08-29</span>
+											</li>
+																						<li>
+												<a href="/story/157059-1.shtml">
+												投资4亿元 博奥生物重庆两江新区布局大健康产业
+												</a>
+												<span class="timestamp">2016-08-26</span>
+											</li>
+																						<li>
+												<a href="/story/156973-1.shtml">
+												独家保障2016上海国际马拉松 中国平安持续打造健康生态圈
+												</a>
+												<span class="timestamp">2016-08-25</span>
+											</li>
+																						<li>
+												<a href="/story/156896-1.shtml">
+												启明医疗助力成功开展阿根廷首例经导管肺动脉瓣膜置换术
+												</a>
+												<span class="timestamp">2016-08-24</span>
+											</li>
+																						<li><a href="/story/industry/HEA-1.shtml" title="健康护理与医院">查看更多</a></li>
+										</ul>
+									</div>
+																		<h3><a href="/story/industry/MTC-1.shtml" title="医疗药物">医疗药物 最近新闻稿</a></h3>
+									<div>
+										<ul>
+																						<li>
+												<a href="/story/157125-1.shtml">
+												拜耳“走进西部”，助力中国医疗卫生基础建设
+												</a>
+												<span class="timestamp">2016-08-29</span>
+											</li>
+																						<li>
+												<a href="/story/156781-1.shtml">
+												思密达七次蝉联“健康中国-品牌榜”胃肠道用药
+												</a>
+												<span class="timestamp">2016-08-23</span>
+											</li>
+																						<li>
+												<a href="/story/156775-1.shtml">
+												艾森流式细胞仪纳入“浙江制造精品”
+												</a>
+												<span class="timestamp">2016-08-23</span>
+											</li>
+																						<li>
+												<a href="/story/156639-1.shtml">
+												加拿大医疗技术公司LABORIE将成为Patricia Industries子公司
+												</a>
+												<span class="timestamp">2016-08-20</span>
+											</li>
+																						<li>
+												<a href="/story/156627-1.shtml">
+												bioLytical Laboratories宣布在美国提交寨卡检测专利申请
+												</a>
+												<span class="timestamp">2016-08-19</span>
+											</li>
+																						<li><a href="/story/industry/MTC-1.shtml" title="医疗药物">查看更多</a></li>
+										</ul>
+									</div>
+																		<h3><a href="/story/subject/CSR-1.shtml" title="企业社会责任">企业社会责任 最近新闻稿</a></h3>
+									<div>
+										<ul>
+																						<li>
+												<a href="/story/157133-1.shtml">
+												2016“BAZAAR明星慈善夜”将在北京举行
+												</a>
+												<span class="timestamp">2016-08-29</span>
+											</li>
+																						<li>
+												<a href="/story/157125-1.shtml">
+												拜耳“走进西部”，助力中国医疗卫生基础建设
+												</a>
+												<span class="timestamp">2016-08-29</span>
+											</li>
+																						<li>
+												<a href="/story/157117-1.shtml">
+												“童绘蓝天”全国中小学生环保绘画大赛颁奖仪式在京举行
+												</a>
+												<span class="timestamp">2016-08-29</span>
+											</li>
+																						<li>
+												<a href="/story/156811-1.shtml">
+												大都会人寿助力推动中国普惠金融事业
+												</a>
+												<span class="timestamp">2016-08-23</span>
+											</li>
+																						<li>
+												<a href="/story/156762-1.shtml">
+												半边山东海学堂国学夏令营隆重落幕
+												</a>
+												<span class="timestamp">2016-08-23</span>
+											</li>
+																						<li><a href="/story/subject/CSR-1.shtml" title="企业社会责任">查看更多</a></li>
+										</ul>
+									</div>
+									
+								</div>
+								
+								<script language="javascript" type="text/javascript">
+								
+								/* Below 2 functions are used for accordion functionality. */
+								$(function() {
+									$( "#accordion" ).accordion({
+										autoHeight: false
+									});
+								});
+								$(function() {
+									$( "#accordionResizer" ).resizable({
+										resize: function() {
+											$( "#accordion" ).accordion( "resize" );
+										}
+									});
+								});
+								 /* Upto here */
+								 
+								</script>
+
+							</div>
+						</div>
+						
+						<div style="padding:10px 25px 25px 25px; border-bottom: 1px dotted #CCCCCC;">
+						
+<!-- cn_releases_right_column_video_module ON 2012-10-11 08:13:27 START -->
+<div id="multivuPlayer">
+					<h3 class="seo-col2-h3">多媒体新闻</h3>
+					<script type='text/javascript'>
+						googletag.cmd.push(function() {
+						googletag.defineSlot('/3778900/multimedia_banner', [192, 144], 'div-gpt-ad-1337310385860-0').addService(googletag.pubads());
+						googletag.pubads().enableSingleRequest();
+						googletag.enableServices();
+						});
+					</script>
+					<!-- multimedia_banner -->
+					<div id='div-gpt-ad-1337310385860-0' style='width:192px; height:144px;'>
+						<script type='text/javascript'>
+							googletag.cmd.push(function() { googletag.display('div-gpt-ad-1337310385860-0'); });
+						</script>
+					</div>
+				</div>
+<!-- cn_releases_right_column_video_module ON 2012-10-11 08:13:27 END -->
+
+
+							<div style="color: white;padding-left: 25px;">
+                                     <a id="button-standard-link" class="button-standard" href="http://misc.prnasia.com/atd/custeventreg.php?event_id=1" style="color: white;line-height: 32px;">我要发布新闻稿</a>
+                            </div>
+
+
+						</div>
+
+						<div class="clearboth"></div>
+						
+					</div>
+								
+									</div>
+				
+				
+			</div>
+			<div class="clearboth"></div>
+			
+		</div>
+	</div><!-- CONTENT AREA END -->
+	<script type="text/javascript">
+	
+
+	var re = /^[\u4e00-\u9fa5\w]{0,6}\s{0,1}[-:]{0,1}\s{0,1}(http|https):\/\/(photo|photos).(prnasia|prnewswire).com\/prnh/;
+	$("#dvContent p").each(function(){
+	if(re.test($(this).text()) && $(this).text().toLowerCase().indexOf("pdf")<0){
+
+		var flag = true;
+		for(var i=0; i<$(this).nextAll().length; i++){
+			var obj = $(this).nextAll()[i];
+			try{
+				if(!re.test($(obj).text()) && $(obj).text().trim().length > 3){
+					flag = false;
+					break;
+				}
+			}catch(e){
+				console.log(e);
+			}
+		}
+		if(flag){
+			return;
+		}
+
+		var targetHTML = "";
+		for(var i=0; i<$(this).find("a").length; i++){
+			var obj = $(this).find("a")[i];
+			var href = $(obj).attr("href").replace("prnh", "prnvar");
+			console.log("href= "+href);
+			targetHTML += "<div style='TEXT-ALIGN: center; WIDTH: 100%'><a href='"+$(obj).attr("href")+"' target='_blank'><img title='' border='0' alt='' align='middle' src='"+href+"'></a></div><br>";
+		}
+		if(targetHTML.length > 10){
+			/*
+			for(var i=0; i<$("#dvContent p").length;i++){
+				var obj = $("#dvContent p")[i];
+				if($(obj).text().length > 25){
+					$(obj).after(targetHTML);
+					break;
+				}
+			}*/
+			$(this).html(targetHTML);
+		}
+
+	}
+	});
+	
+	</script>
+
+
+<!-- cn_overall_segment_footer ON 2016-07-19 18:18:55 START -->
+<style type="text/css">
+#apDiv1 {
+	position:absolute;
+	width:35px;
+	height:45px;
+	z-index:101;
+	left: 93px;
+	top: 0px;
+}
+</style>
+<div class="gap-footer-content"> </div>
+
+	
+<!-- cn_inner_top_nav_links ON 2016-01-27 18:16:06 START -->
+<div class="topnavlnks"> 
+
+		<!-- search module -->
+		<div class="block033">
+<!--cn lang s-->
+<style>
+ul.other li {float:left;padding:0 2px 5px 0; line-height:1.2em;}
+</style>
+<div >
+<ul class="other" style="list-style: none;">
+<li><a href="http://hk.prnasia.com/">繁體中文</a> | </li>
+<li><a href="http://en.prnasia.com/">English</a> | </li>
+<li><a href="http://jp.prnasia.com/">日本語</a> | </li>
+<li><a href="http://kr.prnasia.com/">한국어</a> | </li>
+<li><a href="http://id.prnasia.com/">Bahasa Indonesia</a></li>
+<div style="clear:both"></div>
+</ul>
+</div>
+
+<!--cn lang e-->
+			<form name="searchOne" method="get" action="/p/story-search-sphinx.php">
+				
+				<table cellpadding="0" cellspacing="0" border="0" width="100%" class="srch1" style="margin: 0;">
+					<tbody>
+						<tr>
+							<td colspan="1">
+								<a title="Advanced Search" href="/p/story-search-sphinx.php?lang=1">高级搜索</a>
+								<div class="dvSearch">搜索</div>
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2"></td>
+						</tr>
+					</tbody>
+				</table>
+
+				<table cellpadding="0" cellspacing="0" border="0" style="padding-bottom: 5px;">
+					<tbody>
+						<tr>
+							<td>
+								<input type="radio" id="rdnewsreleases" name="mode" value="story" class="rad" checked="checked" />
+							</td>
+							<td>
+								<label for="rdnewsreleases" class="searchLabel">
+									新闻稿
+								</label>
+							</td>
+							<td>&nbsp;&nbsp;</td>
+							<td>
+								<input type="radio" id="rdexhibitions" name="mode" value="exhibition" class="rad" />
+							</td>
+							<td>
+								<label for="rdexhibitions" class="searchLabel">
+									会展
+								</label>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+
+				<table cellspacing="0" cellpadding="0" border="0">
+					<tbody>
+						<tr>
+							<td>
+								<div>
+									<input type="text" id="searchtxt" class="field1" name="keywords" value="" />
+									<input type="hidden" name="lang" value="1" />
+									<input type="hidden" name="post" value="1" />
+								</div>
+							</td>
+							<td>
+								<input type="image" src="http://static.prnasia.com/pro/pcom/includes/images/button-search_PRN.gif" name="submit" value="Go" title="Go" onclick="trackSearch();return(validateChangeSearchURL());" />
+							</td>
+						</tr>
+						<tr>
+							<td colspan="2">
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</form>
+		</div>
+		<!-- search module end -->
+
+		<!-- header links module -->
+		<div class="block022">
+			<ol>
+				<li><a title="Member sign in" id='global7' rel='drop3' class='drop'  href="#" rel="external nofollow">登录/注册</a></li>
+				<li><a title="Global sites" href="#" id='global8' rel='drop4' class='drop'>全球站点</a></li>
+			</ol>
+		</div>
+		<!-- header links module end -->
+
+	</div><!-- topnavlnks end -->
+<!-- cn_inner_top_nav_links ON 2016-01-27 18:16:06 END -->
+ 
+
+	
+<!-- cn_inner_main_navigation ON 2014-09-25 17:02:04 START -->
+<div class="section02">
+		<ol>
+			<li class=""><a title="产品与服务" href="/services/" id='global1' rel='drop1'>产品与服务</a></li>
+			<li class=""><a title="新闻稿中心" href="/news/" id='global2'>新闻稿中心</a></li>
+			<li class=""><a title="媒体监测 CMM" href="http://cmm.prnasia.com/mw/" id='global3' target="_blank">媒体监测 CMM</a></li>
+			<li class=""><a title="媒体服务" href="/media-service" id='global4' rel='drop2'>媒体服务</a></li>
+			<li class=""><a title="资源库" href="/resources/" id='global5' rel='drop6'>资源库</a></li>
+			<li class=""><a title="会展频道" href="/events/" id='global6'>会展频道</a></li>
+		</ol>
+		<!--[if IE 6]><div class="clearboth"><img src="/includes/images/spacer_PRN.gif" border="0" height="1" width="1" alt="" /></div><![endif]-->
+</div>
+<!-- cn_inner_main_navigation ON 2014-09-25 17:02:04 END -->
+ 
+
+	
+<!-- cn_inner_footer ON 2016-06-17 17:42:07 START -->
+<div class="section03" id="footer" >
+		<!-- footer -->
+		<ol>
+			<li><a title="关于美通社" href="/about">关于美通社</a></li>
+			<li><a title="联系我们" href="/contact-us">联系我们</a></li>
+			<li><a title="美通社动态" href="/p/lightnews-channel-1-35-0.shtml">美通社动态</a></li>
+			<li><a title="服务条款" href="/terms">服务条款</a></li>		
+			<li><a title="加入我们" href="/careers">加入我们</a></li>
+			<li><a title="网站地图" href="/sitemap">网站地图</a></li>
+			<li class="end"><a title="RSS 订阅" href="/rss">RSS订阅</a></li>		
+		</ol>
+		<!-- footer end -->
+
+		<!-- footer copyright-->
+		<p class="end">
+			Copyright &copy; 2003-2015 美通社版权所有，未经许可不得转载. <a href="http://www.miibeian.gov.cn" rel="external nofollow">京ICP备12047769号</a><br />
+			<a title="Cision" href="http://www.cision.com/us/?utm_medium=pr&utm_source=pressrelease&utm_content=cishomepage&utm_campaign=prnewswire" target="_blank" rel="external nofollow">Cision</a> 旗下公司.<br/>
+		</p>
+	</div><!-- footer end -->
+<!-- cn_inner_footer ON 2016-06-17 17:42:07 END -->
+ 
+
+</div><!-- end master container -->
+
+	
+<!-- cn_inner_dropdown_flyouts ON 2014-11-17 11:07:44 START -->
+<!-- products and services -->
+	<div id="drop1" class="droplinks">
+		<ol>	
+			<li><a title="新闻稿发布" href="/services/distribute/" >新闻稿发布</a></li>
+			<li><a title="媒体监测和情报" href="/services/monitor/" >媒体监测和情报</a></li>
+			<li><a title="信息披露和投资者传播" href="/services/ir/" >信息披露和投资者传播</a></li>
+			<li><a title="传播优化与增值" href="/services/engage/" >传播优化与增值</a></li>
+           <li><a title="客户 FAQ" href="/services/FAQ/" >客户 FAQ</a></li>
+		</ol>
+	</div>
+	
+
+	<!-- contact prn -->
+	<div id="drop2" class="droplinks">
+		<ol>
+			<li id='profnet'><a title="采访热线" href="/profnet/" target="_blank">采访热线</a></li>
+			<li id='media'><a title="新传播茶会" href="/media-coffee/">新传播茶会</a></li>        
+			<li id='partners'><a title="媒体合作伙伴" href="/partners/">媒体合作伙伴</a></li>
+ 			<li id='partner-news'><a title="媒体资讯专栏" href="/partner-news/">媒体资讯专栏</a></li>           
+		</ol>
+	</div>
+    
+
+	<!-- member signup -->
+	<div id="drop3" class="droplinks">
+		<ol>
+			<li><a href="http://www.prnasia.com/m/journalist/user/do_login" title="记者登录 / 注册" rel="external nofollow">记者登录 / 注册</a></li>
+			<li><a href="http://www.prnasia.com/m/client/user/do_login" title="专家登录 / 注册" rel="external nofollow">专家登录 / 注册</a></li>
+			<li id="portalarea" ><a title="企业登录" href="http://www.prnasia.com/p/mediaroom-login.php?lang=1" rel="external nofollow">企业登录</a></li> 
+		</ol>
+	</div>
+
+	<!-- global sites -->
+	<div id="drop4" class="droplinks">
+		<ol>
+			<li><a title="美国" href="http://www.prnewswire.com" rel="external nofollow">美国</a></li>
+			<li><a title="巴西" href="http://www.prnewswire.com.br/" rel="external nofollow">巴西</a></li>
+			<li><a title="加拿大" href="http://www.newswire.ca/en/ " rel="external nofollow">加拿大</a></li>
+			<li><a title="欧洲" href="http://prnewswire.co.uk/" rel="external nofollow">欧洲</a></li>
+			<li><a title="法国" href="http://www.prnewswire.fr/" rel="external nofollow">法国</a></li>
+			<li><a title="以色列" href="http://www.prnewswire.co.il/" rel="external nofollow">以色列</a></li>
+			<li><a title="墨西哥" href="http://www.prnewswire.com.mx/" rel="external nofollow">墨西哥</a></li>
+			<li><a title="荷兰" href="http://www.perssupport.nl/apssite" rel="external nofollow">荷兰</a></li>
+			<li><a title="英国" href="http://www.prnewswire.co.uk" rel="external nofollow">英国</a></li>
+		</ol>
+	</div>
+	
+	<!-- contact prn -->
+	<div id="drop6" class="droplinks">
+		<ol>
+			<li id='blog'><a title="美通说传播" href="/blog">美通说传播</a></li>
+		</ol>
+	</div>
+
+	<script type="text/javascript" src="http://static.prnasia.com/pro/pcom/includes/js/PRN_dropdowncontent.js"></script>
+	<script type="text/javascript">
+		//Call dropdowncontent.init("anchorID", "positionString", glideduration, "revealBehavior") at the end of the page:
+		dropdowncontent.init("global1", "right-bottom", 10, "mouseover");
+		dropdowncontent.init("global5", "right-bottom", 10, "mouseover");
+		dropdowncontent.init("global4", "right-bottom", 10, "mouseover");
+		dropdowncontent.init("global7", "left-bottom", 10, "click");
+		dropdowncontent.init("global8", "left-bottom", 10, "click");
+	</script>
+<!-- cn_inner_dropdown_flyouts ON 2014-11-17 11:07:44 END -->
+
+
+<div id="ShowAD" style="position: fixed; z-index:100; top: 80px;">
+	<div id="apDiv1" style="font-size:24px; font-family: 'Times New Roman', Times, serif; text-align:left;cursor:hand; display:block; border:1px solid #ededed; background-color:#fff; width:15px; height:15px; line-height:15px; font-weight:100; color:#000; cursor:pointer; text-align:center;" onClick="closead();"> &times;</div>
+	<img src="http://static.prnasia.com/pro/pcom/includes/images/wechat_prn.png">
+</div>
+<script language="javascript">
+	var bodyfrm = ( document.compatMode.toLowerCase()=="css1compat" ) ? document.documentElement : document.body;
+	var adst = document.getElementById("ShowAD").style;
+	//adst.top = ( bodyfrm.clientHeight -650-22 ) + "px";
+	adst.left = ( bodyfrm.clientWidth -150 ) + "px";
+	function closead()
+	{
+		adst.display='none';
+	}
+</script>
+<!-- cn_overall_segment_footer ON 2016-07-19 18:18:55 END -->
+
+
+<!-- _overall_navigator_footer START -->
+
+
+	<script type="text/javascript">
+		var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+		document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3F85cc2c0b248c57e93fb0181c788a8167' type='text/javascript'%3E%3C/script%3E"));
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-6773238-1']);
+		_gaq.push(['_setDomainName', '.prnasia.com']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+
+		
+
+		(function(){
+			var cookie_prefix = 'MEDIOCRE5_';
+			var cookie_name = cookie_prefix + 'refer';
+			var link_entry = document.referrer;
+
+			if(link_entry.length > 0 && 
+				(link_entry.indexOf('prnasia.com') == -1 || link_entry.indexOf('prnasia.com') > 20)){
+				link_entry = link_entry.substring(0,255);
+				if(!$.cookie(cookie_name)){
+					$.cookie(cookie_name, link_entry, { path: '/' });
+				}else{
+					$.cookie(cookie_name, link_entry, { path: '/' });
+				}
+			}
+		})();
+	</script>
+	
+
+</body>
+</html>
+<!-- Time : 0.011s | 4 Queries | Memory Usage: 1.18 M -->
+<!-- _overall_navigator_footer END -->
+
